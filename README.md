@@ -46,13 +46,13 @@ Tampilan dibuat berdasarkan wireframe yang telah dirancang sebelumnya menggunaka
 
 ## Screenshot
 
-![Hasil UI](screenshot/screenshot.jpeg)
+![Hasil UI](lib/screenshot/screenshot.jpeg)
 
 ---
 
 ## Wireframe
 
-![Wireframe](wireframe/wireframepm.png)
+![Wireframe](lib/wireframe/wireframepm.png)
 
 ---
 
